@@ -1,0 +1,14 @@
+ <div class="col-sm-4">
+    <h4 style="white-space: nowrap;overflow: hidden;text-overflow: ellipsis;margin-bottom: 0px; padding-top: 20px; text-align: center; font-size: 15px;text-transform: capitalize;">   {{post.categories[0].title}}</h4>
+    <h4 style="white-space: nowrap;overflow: hidden;text-overflow: ellipsis;margin-bottom: 0px; padding-top: 0px; margin-top: 0px;     "><a href="post.html?&id={{post.id}}&category={{post.categories[0].id}}">{{post.title}}</a></h4>
+    <!-- <span>Kategoria: {{post.categories[0].slug}}</span> -->
+    <b style="font-size: 10px; position: absolute; right: 15px; bottom:0">{{post.date}}</b>
+    <div style="height: 320px; overflow: hidden;">
+        <a href="post.html?&id={{post.id}}&category={{post.categories[0].id}}"><img ng-src="{{post.thumbnail_images.full.url}}" style="min-height: 320px; max-width: 220%;"></a>
+        <!-- <img class="img-responsive" ng-src="{{post.thumbnail_images.medium.url}}" style="width: 100%; height: 200px;" /> -->
+    </div>
+    <br />
+    <br />
+    <p style="height: 300px; max-width: 360px; overflow: hidden;" class="blog-paragraf" ng-bind-html="post.content"></p>
+    <span>Dodane przez: {{post.author.name}}</span>
+</div>

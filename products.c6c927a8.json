@@ -1,0 +1,778 @@
+{
+"status": "ok",
+"count": 8,
+"count_total": 8,
+"pages": 1,
+"posts": [
+{
+"id": 160,
+"type": "post",
+"slug": "chlodziarka-absorpcyjna-zasilana-goraca-woda-o-niskiej-temperaturze-70-60-st-c-2",
+"url": "../products/?p=160",
+"status": "publish",
+"title": "Chłodziarka absorpcyjna zasilana gorącą wodą o niskiej temperaturze 70 / 60 st. C",
+"title_plain": "Chłodziarka absorpcyjna zasilana gorącą wodą o niskiej temperaturze 70 / 60 st. C",
+"content": "",
+"excerpt": "",
+"date": "2018-05-13 10:46:11",
+"modified": "2018-05-13 10:46:40",
+"categories": [],
+"tags": [
+{
+"id": 2,
+"slug": "products",
+"title": "products",
+"description": "",
+"post_count": 1
+},
+{
+"id": 4,
+"slug": "produkty",
+"title": "produkty",
+"description": "",
+"post_count": 8
+}
+],
+"author": {
+"id": 1,
+"slug": "kuba",
+"name": "kuba",
+"first_name": "",
+"last_name": "",
+"nickname": "kuba",
+"url": "",
+"description": ""
+},
+"comments": [],
+"attachments": [],
+"comment_count": 0,
+"comment_status": "open",
+"thumbnail": null,
+"custom_fields": {},
+"thumbnail_size": "thumbnail",
+"thumbnail_images": {
+"full": {
+"url": "../common/images/Librac_16.png",
+"width": 655,
+"height": 552
+},
+"medium": {
+"url": "../common/images/Librac_16-237x200.324bdf3b.png",
+"width": 237,
+"height": 200
+},
+"wysija-newsletters-max": {
+"url": "../common/images/Librac_16-600x506.png",
+"width": 600,
+"height": 506
+},
+"twentyseventeen-featured-image": {
+"url": "../common/images/Librac_16.png",
+"width": 655,
+"height": 552
+},
+"twentyseventeen-thumbnail-avatar": {
+"url": "../common/images/Librac_16-100x100.png",
+"width": 100,
+"height": 100
+}
+}
+},
+{
+"id": 102,
+"type": "post",
+"slug": "chlodziarka-absorpcyjna-zasilana-skroplonym-gazem-ziemnym",
+"url": "../products/?p=102",
+"status": "publish",
+"title": "Chłodziarka absorpcyjna zasilana skroplonym gazem ziemnym",
+"title_plain": "Chłodziarka absorpcyjna zasilana skroplonym gazem ziemnym",
+"content": "",
+"excerpt": "",
+"date": "2017-12-05 08:21:27",
+"modified": "2018-01-11 13:21:30",
+"categories": [
+{
+"id": 3,
+"slug": "produkty",
+"title": "Produkty",
+"description": "Produkty naszej firmy",
+"parent": 0,
+"post_count": 7
+}
+],
+"tags": [
+{
+"id": 4,
+"slug": "produkty",
+"title": "produkty",
+"description": "",
+"post_count": 8
+}
+],
+"author": {
+"id": 1,
+"slug": "kuba",
+"name": "kuba",
+"first_name": "",
+"last_name": "",
+"nickname": "kuba",
+"url": "",
+"description": ""
+},
+"comments": [],
+"attachments": [
+{
+"id": 103,
+"url": "../common/images/Librac_13.png",
+"slug": "librac_13",
+"title": "Librac_13",
+"description": "",
+"caption": "",
+"parent": 102,
+"mime_type": "image/png",
+"images": {
+"full": {
+"url": "../common/images/Librac_13.png",
+"width": 1920,
+"height": 1080
+},
+"thumbnail": {
+"url": "../common/images/Librac_13-300x300.png",
+"width": 300,
+"height": 300
+},
+"medium": {
+"url": "../common/images/Librac_13-300x169.6832abb8.png",
+"width": 300,
+"height": 169
+},
+"wysija-newsletters-max": {
+"url": "../common/images/Librac_13-600x338.png",
+"width": 600,
+"height": 338
+},
+"twentyseventeen-featured-image": {
+"url": "../common/images/Librac_13.png",
+"width": 1920,
+"height": 1080
+},
+"twentyseventeen-thumbnail-avatar": {
+"url": "../common/images/Librac_13-100x100.png",
+"width": 100,
+"height": 100
+}
+}
+}
+],
+"comment_count": 0,
+"comment_status": "open",
+"thumbnail": "../common/images/Librac_13-300x300.png",
+"custom_fields": {},
+"thumbnail_size": "thumbnail",
+"thumbnail_images": {
+"full": {
+"url": "../common/images/Librac_13.png",
+"width": 1920,
+"height": 1080
+},
+"thumbnail": {
+"url": "../common/images/Librac_13-300x300.png",
+"width": 300,
+"height": 300
+},
+"medium": {
+"url": "../common/images/Librac_13-300x169.6832abb8.png",
+"width": 300,
+"height": 169
+},
+"wysija-newsletters-max": {
+"url": "../common/images/Librac_13-600x338.png",
+"width": 600,
+"height": 338
+},
+"twentyseventeen-featured-image": {
+"url": "../common/images/Librac_13.png",
+"width": 1920,
+"height": 1080
+},
+"twentyseventeen-thumbnail-avatar": {
+"url": "../common/images/Librac_13-100x100.png",
+"width": 100,
+"height": 100
+}
+}
+},
+{
+"id": 99,
+"type": "post",
+"slug": "chlodziarka-absorpcyjna-zasilana-goraca-woda-o-duzej-delta-t-temperaturze-95-55-st-c",
+"url": "../products/?p=99",
+"status": "publish",
+"title": "Chłodziarka absorpcyjna zasilana gorącą wodą o dużej delta T ( temperaturze 95 / 55 st. C)",
+"title_plain": "Chłodziarka absorpcyjna zasilana gorącą wodą o dużej delta T ( temperaturze 95 / 55 st. C)",
+"content": "",
+"excerpt": "",
+"date": "2017-12-05 08:21:02",
+"modified": "2018-01-11 13:21:36",
+"categories": [
+{
+"id": 3,
+"slug": "produkty",
+"title": "Produkty",
+"description": "Produkty naszej firmy",
+"parent": 0,
+"post_count": 7
+}
+],
+"tags": [
+{
+"id": 4,
+"slug": "produkty",
+"title": "produkty",
+"description": "",
+"post_count": 8
+}
+],
+"author": {
+"id": 1,
+"slug": "kuba",
+"name": "kuba",
+"first_name": "",
+"last_name": "",
+"nickname": "kuba",
+"url": "",
+"description": ""
+},
+"comments": [],
+"attachments": [
+{
+"id": 100,
+"url": "../common/images/Librac_15.png",
+"slug": "librac_15",
+"title": "Librac_15",
+"description": "",
+"caption": "",
+"parent": 99,
+"mime_type": "image/png",
+"images": {
+"full": {
+"url": "../common/images/Librac_15.png",
+"width": 671,
+"height": 483
+},
+"thumbnail": {
+"url": "../common/images/Librac_15-300x300.png",
+"width": 300,
+"height": 300
+},
+"medium": {
+"url": "../common/images/Librac_15-278x200.bca7af0d.png",
+"width": 278,
+"height": 200
+},
+"wysija-newsletters-max": {
+"url": "../common/images/Librac_15-600x432.png",
+"width": 600,
+"height": 432
+},
+"twentyseventeen-featured-image": {
+"url": "../common/images/Librac_15.png",
+"width": 671,
+"height": 483
+},
+"twentyseventeen-thumbnail-avatar": {
+"url": "../common/images/Librac_15-100x100.png",
+"width": 100,
+"height": 100
+}
+}
+}
+],
+"comment_count": 0,
+"comment_status": "open",
+"thumbnail": "../common/images/Librac_15-300x300.png",
+"custom_fields": {},
+"thumbnail_size": "thumbnail",
+"thumbnail_images": {
+"full": {
+"url": "../common/images/Librac_15.png",
+"width": 671,
+"height": 483
+},
+"thumbnail": {
+"url": "../common/images/Librac_15-300x300.png",
+"width": 300,
+"height": 300
+},
+"medium": {
+"url": "../common/images/Librac_15-278x200.bca7af0d.png",
+"width": 278,
+"height": 200
+},
+"wysija-newsletters-max": {
+"url": "../common/images/Librac_15-600x432.png",
+"width": 600,
+"height": 432
+},
+"twentyseventeen-featured-image": {
+"url": "../common/images/Librac_15.png",
+"width": 671,
+"height": 483
+},
+"twentyseventeen-thumbnail-avatar": {
+"url": "../common/images/Librac_15-100x100.png",
+"width": 100,
+"height": 100
+}
+}
+},
+{
+"id": 96,
+"type": "post",
+"slug": "jednostopniowa-dwustopniowa-chlodziarka-absorpcyjna-zasilana-para",
+"url": "../products/?p=96",
+"status": "publish",
+"title": "Jednostopniowa / dwustopniowa chłodziarka absorpcyjna zasilana parą",
+"title_plain": "Jednostopniowa / dwustopniowa chłodziarka absorpcyjna zasilana parą",
+"content": "",
+"excerpt": "",
+"date": "2017-12-05 08:20:25",
+"modified": "2018-01-11 13:21:42",
+"categories": [
+{
+"id": 3,
+"slug": "produkty",
+"title": "Produkty",
+"description": "Produkty naszej firmy",
+"parent": 0,
+"post_count": 7
+}
+],
+"tags": [
+{
+"id": 4,
+"slug": "produkty",
+"title": "produkty",
+"description": "",
+"post_count": 8
+}
+],
+"author": {
+"id": 1,
+"slug": "kuba",
+"name": "kuba",
+"first_name": "",
+"last_name": "",
+"nickname": "kuba",
+"url": "",
+"description": ""
+},
+"comments": [],
+"attachments": [
+{
+"id": 97,
+"url": "../common/images/Librac_17.png",
+"slug": "librac_17",
+"title": "Librac_17",
+"description": "",
+"caption": "",
+"parent": 96,
+"mime_type": "image/png",
+"images": {
+"full": {
+"url": "../common/images/Librac_17.png",
+"width": 813,
+"height": 778
+},
+"thumbnail": {
+"url": "../common/images/Librac_17-300x300.png",
+"width": 300,
+"height": 300
+},
+"medium": {
+"url": "../common/images/Librac_17-209x200.d518e72c.png",
+"width": 209,
+"height": 200
+},
+"wysija-newsletters-max": {
+"url": "../common/images/Librac_17-600x574.png",
+"width": 600,
+"height": 574
+},
+"twentyseventeen-featured-image": {
+"url": "../common/images/Librac_17.png",
+"width": 813,
+"height": 778
+},
+"twentyseventeen-thumbnail-avatar": {
+"url": "../common/images/Librac_17-100x100.png",
+"width": 100,
+"height": 100
+}
+}
+}
+],
+"comment_count": 0,
+"comment_status": "open",
+"thumbnail": "../common/images/Librac_17-300x300.png",
+"custom_fields": {},
+"thumbnail_size": "thumbnail",
+"thumbnail_images": {
+"full": {
+"url": "../common/images/Librac_17.png",
+"width": 813,
+"height": 778
+},
+"thumbnail": {
+"url": "../common/images/Librac_17-300x300.png",
+"width": 300,
+"height": 300
+},
+"medium": {
+"url": "../common/images/Librac_17-209x200.d518e72c.png",
+"width": 209,
+"height": 200
+},
+"wysija-newsletters-max": {
+"url": "../common/images/Librac_17-600x574.png",
+"width": 600,
+"height": 574
+},
+"twentyseventeen-featured-image": {
+"url": "../common/images/Librac_17.png",
+"width": 813,
+"height": 778
+},
+"twentyseventeen-thumbnail-avatar": {
+"url": "../common/images/Librac_17-100x100.png",
+"width": 100,
+"height": 100
+}
+}
+},
+{
+"id": 58,
+"type": "post",
+"slug": "chlodziarka-absorpcyjna-zasilana-goraca-woda-o-niskiej-temperaturze-70-60-st-c",
+"url": "../products/?p=58",
+"status": "publish",
+"title": "Chłodziarka absorpcyjna zasilana gorącą wodą o niskiej temperaturze 70 / 60 st. C",
+"title_plain": "Chłodziarka absorpcyjna zasilana gorącą wodą o niskiej temperaturze 70 / 60 st. C",
+"content": "",
+"excerpt": "",
+"date": "2017-10-05 08:11:04",
+"modified": "2018-01-11 13:21:48",
+"categories": [
+{
+"id": 3,
+"slug": "produkty",
+"title": "Produkty",
+"description": "Produkty naszej firmy",
+"parent": 0,
+"post_count": 7
+}
+],
+"tags": [
+{
+"id": 4,
+"slug": "produkty",
+"title": "produkty",
+"description": "",
+"post_count": 8
+}
+],
+"author": {
+"id": 1,
+"slug": "kuba",
+"name": "kuba",
+"first_name": "",
+"last_name": "",
+"nickname": "kuba",
+"url": "",
+"description": ""
+},
+"comments": [],
+"attachments": [],
+"comment_count": 0,
+"comment_status": "open",
+"thumbnail": null,
+"custom_fields": {},
+"thumbnail_size": "thumbnail",
+"thumbnail_images": {
+"full": {
+"url": "../common/images/Librac_16.png",
+"width": 655,
+"height": 552
+},
+"medium": {
+"url": "../common/images/Librac_16-237x200.324bdf3b.png",
+"width": 237,
+"height": 200
+},
+"wysija-newsletters-max": {
+"url": "../common/images/Librac_16-600x506.png",
+"width": 600,
+"height": 506
+},
+"twentyseventeen-featured-image": {
+"url": "../common/images/Librac_16.png",
+"width": 655,
+"height": 552
+},
+"twentyseventeen-thumbnail-avatar": {
+"url": "../common/images/Librac_16-100x100.png",
+"width": 100,
+"height": 100
+}
+}
+},
+{
+"id": 55,
+"type": "post",
+"slug": "chlodziarka-absorpcyjna-zasilana-spalinami",
+"url": "../products/?p=55",
+"status": "publish",
+"title": "Chłodziarka absorpcyjna zasilana spalinami",
+"title_plain": "Chłodziarka absorpcyjna zasilana spalinami",
+"content": "",
+"excerpt": "",
+"date": "2017-10-05 08:10:24",
+"modified": "2018-01-11 13:21:52",
+"categories": [
+{
+"id": 3,
+"slug": "produkty",
+"title": "Produkty",
+"description": "Produkty naszej firmy",
+"parent": 0,
+"post_count": 7
+}
+],
+"tags": [
+{
+"id": 4,
+"slug": "produkty",
+"title": "produkty",
+"description": "",
+"post_count": 8
+}
+],
+"author": {
+"id": 1,
+"slug": "kuba",
+"name": "kuba",
+"first_name": "",
+"last_name": "",
+"nickname": "kuba",
+"url": "",
+"description": ""
+},
+"comments": [],
+"attachments": [],
+"comment_count": 0,
+"comment_status": "open",
+"thumbnail": null,
+"custom_fields": {},
+"thumbnail_size": "thumbnail",
+"thumbnail_images": {
+"full": {
+"url": "../common/images/Librac_14.png",
+"width": 487,
+"height": 312
+},
+"medium": {
+"url": "../common/images/Librac_14-300x192.0e6ff558.png",
+"width": 300,
+"height": 192
+},
+"medium_large": {
+"url": "../common/images/Librac_14.png",
+"width": 487,
+"height": 312
+},
+"large": {
+"url": "../common/images/Librac_14.png",
+"width": 487,
+"height": 312
+},
+"wysija-newsletters-max": {
+"url": "../common/images/Librac_14.png",
+"width": 487,
+"height": 312
+},
+"twentyseventeen-featured-image": {
+"url": "../common/images/Librac_14.png",
+"width": 487,
+"height": 312
+},
+"twentyseventeen-thumbnail-avatar": {
+"url": "../common/images/Librac_14-100x100.png",
+"width": 100,
+"height": 100
+}
+}
+},
+{
+"id": 52,
+"type": "post",
+"slug": "dwustopniowa-chlodziarka-absorpcyjna-zasilana-cieplem-z-palnika-gazowego",
+"url": "../products/?p=52",
+"status": "publish",
+"title": "Dwustopniowa chłodziarka absorpcyjna zasilana ciepłem z palnika gazowego",
+"title_plain": "Dwustopniowa chłodziarka absorpcyjna zasilana ciepłem z palnika gazowego",
+"content": "",
+"excerpt": "",
+"date": "2017-10-05 08:09:53",
+"modified": "2018-01-11 13:21:57",
+"categories": [
+{
+"id": 3,
+"slug": "produkty",
+"title": "Produkty",
+"description": "Produkty naszej firmy",
+"parent": 0,
+"post_count": 7
+}
+],
+"tags": [
+{
+"id": 4,
+"slug": "produkty",
+"title": "produkty",
+"description": "",
+"post_count": 8
+}
+],
+"author": {
+"id": 1,
+"slug": "kuba",
+"name": "kuba",
+"first_name": "",
+"last_name": "",
+"nickname": "kuba",
+"url": "",
+"description": ""
+},
+"comments": [],
+"attachments": [],
+"comment_count": 0,
+"comment_status": "open",
+"thumbnail": null,
+"custom_fields": {},
+"thumbnail_size": "thumbnail",
+"thumbnail_images": {
+"full": {
+"url": "../common/images/Librac_18.png",
+"width": 439,
+"height": 292
+},
+"medium": {
+"url": "../common/images/Librac_18-300x200.c99b2bf1.png",
+"width": 300,
+"height": 200
+},
+"medium_large": {
+"url": "../common/images/Librac_18.png",
+"width": 439,
+"height": 292
+},
+"large": {
+"url": "../common/images/Librac_18.png",
+"width": 439,
+"height": 292
+},
+"wysija-newsletters-max": {
+"url": "../common/images/Librac_18.png",
+"width": 439,
+"height": 292
+},
+"twentyseventeen-featured-image": {
+"url": "../common/images/Librac_18.png",
+"width": 439,
+"height": 292
+},
+"twentyseventeen-thumbnail-avatar": {
+"url": "../common/images/Librac_18-100x100.png",
+"width": 100,
+"height": 100
+}
+}
+},
+{
+"id": 48,
+"type": "post",
+"slug": "chlodziarka-absorpcyjna-w-wersji-przeciwwybuchowej",
+"url": "../products/?p=48",
+"status": "publish",
+"title": "Chłodziarka absorpcyjna w wersji przeciwwybuchowej",
+"title_plain": "Chłodziarka absorpcyjna w wersji przeciwwybuchowej",
+"content": "",
+"excerpt": "",
+"date": "2017-10-05 08:03:59",
+"modified": "2018-01-11 13:22:01",
+"categories": [
+{
+"id": 3,
+"slug": "produkty",
+"title": "Produkty",
+"description": "Produkty naszej firmy",
+"parent": 0,
+"post_count": 7
+}
+],
+"tags": [
+{
+"id": 4,
+"slug": "produkty",
+"title": "produkty",
+"description": "",
+"post_count": 8
+}
+],
+"author": {
+"id": 1,
+"slug": "kuba",
+"name": "kuba",
+"first_name": "",
+"last_name": "",
+"nickname": "kuba",
+"url": "",
+"description": ""
+},
+"comments": [],
+"attachments": [],
+"comment_count": 0,
+"comment_status": "open",
+"thumbnail": null,
+"custom_fields": {},
+"thumbnail_size": "thumbnail",
+"thumbnail_images": {
+"full": {
+"url": "../common/images/Librac_9.png",
+"width": 1999,
+"height": 1309
+},
+"medium": {
+"url": "../common/images/Librac_9-300x196.dceabcd9.png",
+"width": 300,
+"height": 196
+},
+"wysija-newsletters-max": {
+"url": "../common/images/Librac_9-600x393.png",
+"width": 600,
+"height": 393
+},
+"twentyseventeen-featured-image": {
+"url": "../common/images/Librac_9-1999x1200.png",
+"width": 1999,
+"height": 1200
+},
+"twentyseventeen-thumbnail-avatar": {
+"url": "../common/images/Librac_9-100x100.png",
+"width": 100,
+"height": 100
+}
+}
+}
+]
+}
